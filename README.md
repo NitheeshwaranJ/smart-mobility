@@ -2,7 +2,7 @@
 
 **AI-Powered Car Rental & Intelligent Carpooling System**
 
-A production-grade, recruiter-facing full-stack project that simulates a real SaaS mobility product:
+A production-grade, full-stack project that simulates a real SaaS mobility product:
 
 - 🔐 JWT auth with role-based access (Customer / Vehicle Owner / Admin)
 - 🚗 Vehicle catalog, search, booking with double-booking prevention
